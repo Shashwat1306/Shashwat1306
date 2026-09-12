@@ -24,7 +24,7 @@ Here are some ideas to get y<div align="center">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="mailto:shashwat@example.com">
+  <a href="mailto:shashwat132004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
